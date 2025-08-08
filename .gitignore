@@ -1,0 +1,5 @@
+# Experimento de archivos y directorios que deben ser ignrados.
+*.db
+*.log
+/target/
+/bin/
